@@ -2,7 +2,7 @@
 <table style="border:0px solid black;">
   <tr>
     <td colspan=2 align=center>
-      <img src="" />
+      <img src="https://github.com/CaioCostaC/CaioCostaC/blob/6fb9ce699ec68ccd851a8bf0eab8e45c7ef71717/img/perfilGitHub.png" />
     </td>
   </tr>
     <tr>
@@ -14,13 +14,11 @@
     </tr>
     <tr>
         <td colspan=2>
-        <img width="32px" height="32px" src=""/>
-        <img width="32px" height="32px" src=""/>
-        <img width="32px" height="32px" src=""/>
-        <img width="32px" height="32px" src=""/>
-        <img width="32px" height="32px" src=""/>
-        <img width="32px" height="32px" src=""/>
-
+        <img width="32px" height="32px" src="https://github.com/CaioCostaC/CaioCostaC/blob/6fb9ce699ec68ccd851a8bf0eab8e45c7ef71717/img/html5.png"/>
+        <img width="32px" height="32px" src="https://github.com/CaioCostaC/CaioCostaC/blob/6fb9ce699ec68ccd851a8bf0eab8e45c7ef71717/img/css.png"/>
+        <img width="32px" height="32px" src="https://github.com/CaioCostaC/CaioCostaC/blob/6fb9ce699ec68ccd851a8bf0eab8e45c7ef71717/img/javascript.png"/>
+        <img width="32px" height="32px" src="https://github.com/CaioCostaC/CaioCostaC/blob/6fb9ce699ec68ccd851a8bf0eab8e45c7ef71717/img/bootstrap.png"/>
+        <img width="32px" height="32px" src="https://github.com/CaioCostaC/CaioCostaC/blob/6fb9ce699ec68ccd851a8bf0eab8e45c7ef71717/img/github.png"/>
     </tr>
 </table>
 </center>
