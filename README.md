@@ -2,7 +2,7 @@
 <table style="border:0px solid black;">
   <tr>
     <td colspan=2 align=center>
-      <img src="https://github.com/CaioCostaC/CaioCostaC/blob/6fb9ce699ec68ccd851a8bf0eab8e45c7ef71717/img/perfilGitHub.png" />
+      <img src="https://github.com/CaioCostaC/CaioCostaC/blob/c1d91dd6a3a51519278b5e383f75d8ddf4603ea5/img/Fundo.png" />
     </td>
   </tr>
     <tr>
