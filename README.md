@@ -50,7 +50,7 @@ Se quiser trocar ideias ou colaborar em algum projeto, sinta-se à vontade para 
 
 ---
 
-<a href="https://www.linkedin.com/in/caio-costa-428b57223/">Linkedin |</a>
+<a href="https://www.linkedin.com/in/caioocostac/">Linkedin |</a>
 [Email](caiohenriquecosta04@gmail.com)  
 
 ---
