@@ -25,11 +25,30 @@
 ### Olá! Boas vindas
 
 ---
-Iniciando no desenvolvimento web com Front-end
+Desenvolvedor de Software
 
 ---
 
-Gosto de praticar ciclismo e estar em contato com a natureza
+Apaixonado por tecnologia e inovação, busco constantemente criar soluções que agregam valor, otimizam processos e proporcionam uma melhor experiência para os usuários.
+
+🚀 O que me motiva?
+
+Resolver problemas reais por meio da tecnologia
+
+Explorar e adotar novas tendências do mercado
+
+Aprimorar continuamente minhas habilidades e conhecimentos
+
+💡 Principais áreas de atuação:
+✔️ Desenvolvimento web e mobile
+✔️ Integração de APIs e automação de processos
+✔️ Performance, escalabilidade e boas práticas
+
+🔍 Sempre atualizado!
+A tecnologia está sempre evoluindo, e eu também! Estou sempre explorando novas ferramentas e aprimorando minhas habilidades para oferecer soluções cada vez mais eficientes.
+
+📫 Conecte-se comigo!
+Se quiser trocar ideias ou colaborar em algum projeto, sinta-se à vontade para me chamar!
 
 ---
 
