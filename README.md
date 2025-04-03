@@ -33,11 +33,9 @@ Apaixonado por tecnologia e inovação, busco constantemente criar soluções qu
 
 🚀 O que me motiva?
 
-Resolver problemas reais por meio da tecnologia
-
-Explorar e adotar novas tendências do mercado
-
-Aprimorar continuamente minhas habilidades e conhecimentos
+- Resolver problemas reais por meio da tecnologia
+- Explorar e adotar novas tendências do mercado
+- Aprimorar continuamente minhas habilidades e conhecimentos
 
 💡 Principais áreas de atuação:
 ✔️ Desenvolvimento web e mobile
